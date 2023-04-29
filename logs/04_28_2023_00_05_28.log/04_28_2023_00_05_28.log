@@ -1,0 +1,7 @@
+[ 2023-04-28 00:05:30,890 ] 30 root - INFO - Data Ingestion has started
+[ 2023-04-28 00:05:31,303 ] 37 root - INFO - Reading the csv file as dataframe
+[ 2023-04-28 00:05:35,208 ] 74 root - INFO - Initiation of Data Transformation
+[ 2023-04-28 00:05:35,549 ] 79 root - INFO - Train and test data loading has completed
+[ 2023-04-28 00:05:35,549 ] 54 root - INFO - Categorical columns: ['runs_left', 'balls_left', 'wickets', 'total_runs_x', 'crr', 'rrr']
+[ 2023-04-28 00:05:35,549 ] 55 root - INFO - Numerical columns: ['batting_team', 'bowling_team', 'city']
+[ 2023-04-28 00:05:35,556 ] 92 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.

@@ -1,0 +1,2 @@
+[ 2023-04-27 23:59:30,694 ] 30 root - INFO - Data Ingestion has started
+[ 2023-04-27 23:59:31,240 ] 37 root - INFO - Reading the csv file as dataframe
